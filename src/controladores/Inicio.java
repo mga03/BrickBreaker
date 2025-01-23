@@ -10,8 +10,8 @@ import java.awt.event.KeyEvent;
 public class Inicio {
     private static int ballX = 345; // Posición inicial de la bola
     private static int ballY = 525; // Cambiar a 525 para que empiece desde debajo de los ladrillos
-    private static int ballXSpeed = 3; // Velocidad de la bola en X
-    private static int ballYSpeed = -3; // Velocidad de la bola en Y
+    private static int ballXSpeed = 6; // Velocidad de la bola en X
+    private static int ballYSpeed = -6; // Velocidad de la bola en Y
     private static int paddleX = 310; // Posición de la barra inferior
     private static int paddleYTop = 50; // Posición de la barra superior
     private static final int PADDLE_WIDTH = 150; // Ancho de las barras
